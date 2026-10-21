@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("\nC you later\n"); // \n is an escape sequence
+	printf("\nC you later\n");
 
 	return 0;
 }
