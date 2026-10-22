@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("\nA single qoute looks like \'\n");
+	printf("\nA single quote looks like \'\n");
 
 	return 0;
 }
