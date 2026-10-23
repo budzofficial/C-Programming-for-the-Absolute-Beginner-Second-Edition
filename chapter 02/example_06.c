@@ -2,11 +2,8 @@
 
 int main(void)
 {
-	int x;
-	char firstInitial;
-
-	x = 0;
-	firstInitial = '\0';
+	int x = 0;
+	char firstInitial = '\0';
 
 	return 0;
 }
