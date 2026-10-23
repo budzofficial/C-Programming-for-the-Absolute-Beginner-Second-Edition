@@ -2,8 +2,13 @@
 
 int main(void)
 {
-	int x = 0;
-	char firstInitial = '\0';
+	/* Declare variables */
+	int x;
+	char firstInitial;
+
+	/* Initialize variables */
+	x = 0;
+	firstInitial = '\0';
 
 	return 0;
 }
