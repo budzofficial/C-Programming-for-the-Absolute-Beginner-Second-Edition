@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	char firstInitial;
-	char middleInitial;
-	char lastInitial;	
+	float operand1;
+	float operand2;
+	float result;
 
 	return 0;
 }
