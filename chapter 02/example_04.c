@@ -2,15 +2,9 @@
 
 int main(void)
 {
-	/* Declare variables */
-
-	int x;
 	char firstInitial;
-
-	/* Initialize variables */
-
-	x = 0;
-	firstInitial = '\0';
+	char middleInitial;
+	char lastInitial;
 
 	return 0;
 }
