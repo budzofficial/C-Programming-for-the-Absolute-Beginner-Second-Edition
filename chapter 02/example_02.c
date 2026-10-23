@@ -2,9 +2,7 @@
 
 int main(void)
 {
-	float Operand1;
-	float Operand2;
-	float result;
+	int x, y, z;
 
 	return 0;
 }
