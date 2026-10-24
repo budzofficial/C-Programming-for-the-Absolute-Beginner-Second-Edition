@@ -15,7 +15,7 @@ int main(void)
 	//printing variable contents to standard output
 	printf("\nThe value of integer variable x is %d", x);
 	printf("\nThe value of float variable y is %f", y);
-	printf("\nThe value of character variable c is %c", c);
+	printf("\nThe value of character variable c is %c\n", c);
 
 	return 0;
 }
