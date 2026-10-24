@@ -8,7 +8,7 @@ int main(void)
 	middleInitial = 'A';
 	lastInitial = 'V';
 
-	printf("My initials are %c.%c.%c.\n", firstInitial, middleInitial, lastInitial);
+	printf("My Initials are %c.%c.%c.\n", firstInitial, middleInitial, lastInitial);
 
 	return 0;
 }
