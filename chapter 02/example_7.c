@@ -4,6 +4,7 @@ int main(void)
 {
 	int x;
 	char firstInitial;
+
 	x = 0;
 	firstInitial = '\0';
 
