@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("%c", 'M');
+	printf("%c\n", 'M');
 
 	return 0;
 }
