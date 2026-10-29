@@ -7,7 +7,7 @@ int main(void)
 	printf("\n%.3f", 3.123456);
 	printf("\n%.4f", 3.123456);
 	printf("\n%.5f", 3.123456);
-	printf("\n%.6f", 3.123456);
+	printf("\n%.6f\n", 3.123456);
 
 
 	return 0;
