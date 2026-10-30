@@ -16,4 +16,5 @@ int main(void)
 
 	printf("The result is %d\n", iResult);
 
+	return 0;
 }
